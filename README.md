@@ -6,11 +6,10 @@
 
 ## Contents
 
-- iTerm2 preferences
-- Oh My ZSH customizations
-- Vim configuration
 - ZSH configuration
-- Wallpapers collection
+- Oh My ZSH customizations
+- iTerm2 preferences
+- Vim configuration
 
 ## Installation
 
